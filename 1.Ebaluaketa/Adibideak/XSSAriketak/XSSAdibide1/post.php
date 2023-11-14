@@ -1,0 +1,6 @@
+<?php
+// Bilaketa-hitza
+echo "hitza bilatu duzu:". $_GET ["query"];
+// Bilaketaren emaitzak...
+//... kodea...
+?>

